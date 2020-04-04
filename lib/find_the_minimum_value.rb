@@ -5,7 +5,7 @@ end
 
 # def find_max_value(array)
 #   count = 0
-#   min_value = 20
+#   min_value = 100000000
 #   while count < array.length do
 #     if min_value > array[count]
 #       min_value = array[count]
